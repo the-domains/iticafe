@@ -1,0 +1,28 @@
+name: iticafe
+favicon: null
+layout_spectrum: 0.4184727177489549
+typography_spectrum: 0.8460942374076694
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.62047282862477
+  lightness: 0.050229036482051015
+  saturation: 0.7823036194313318
+  rhythmicContrast: 0.034088437212631106
+purpose: []
