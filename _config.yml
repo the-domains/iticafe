@@ -1,28 +1,40 @@
-name: iticafe
+layout_spectrum: 0.7787234
 favicon: null
-layout_spectrum: 0.4184727177489549
-typography_spectrum: 0.8460942374076694
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: iticafe
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.3659574
+  lightness: 0.1787234
+  saturation: 0.5042553
+  rhythmicContrast: 0.03408844
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.62047282862477
-  lightness: 0.050229036482051015
-  saturation: 0.7823036194313318
-  rhythmicContrast: 0.034088437212631106
-purpose: []
+typography_spectrum: 0.8489361
